@@ -61,8 +61,8 @@ const StickyButton = `
       }
     </style>
 
-    <a id="stickyBtn" class="sticky-button" target="_blank" href="https://forms.gle/s9EPDNyCzZ2g5j3C9" >
-      <span class="icono-mail"></span> Send feedback
+    <a id="stickyBtn" class="sticky-button" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfUTt4c6k04pV18S7iWQ_VUyOVobVbhGEJaoa3LNpaoKz8jiA/viewform?embedded=true" >
+      <span class="icono-mail"></span> Enviar comentarios
     </a>
 `;
 
